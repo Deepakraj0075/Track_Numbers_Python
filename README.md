@@ -1,5 +1,5 @@
 # Track_Numbers_Python
-Tracking Mobile Numbers from the received input of the users that displays the Country and Carrier in which the number is registered. Library used here is 'phonenumbers, Folium'.
+Tracking Mobile Numbers from the received input of the users that displays the Country and Carrier in which the number is registered. Library used here is 'phonenumbers, folium'.
 
 Enter the mobile number you want to track : 
 It will show you the place & what service it is using (Airtel, Jio, etc).
